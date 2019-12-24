@@ -1,6 +1,8 @@
 TimeKeeper - A Qt Application for Time Tracking
 =====
 
+![screenshot](./screenshot1.png)
+
 This is a little application we threw together for tracking the
 time spent on different tasks during the work day.
 
